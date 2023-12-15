@@ -37,10 +37,10 @@ To run the DONS 365 Web App locally, follow these steps:
 - Conduct end-to-end tests: npm run test:e2e
 
 # Contributors
-Anuradha Ramchandran
-Lasya Meher
-Abhaya Kirtivasan
-Hemanth Kumar
+1. Anuradha Ramchandran
+2. Lasya Meher
+3. Abhaya Kirtivasan
+4. Hemanth Kumar
 
 
 Feel free to explore, contribute, and enhance the DONS 365 Web App! If you encounter any issues or have suggestions, please open an issue or submit a pull request. We appreciate your support and collaboration.
